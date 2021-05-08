@@ -1,5 +1,5 @@
 hello git 
 ! for the  next job!
-def main (arg:Array(string)
+def main (arg:Array(string) master
 println("嘻嘻“) fix successful!
 
