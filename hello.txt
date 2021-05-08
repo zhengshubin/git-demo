@@ -1,5 +1,7 @@
 hello git 
 ! for the  next job!
+<<<<<<< HEAD
 def main (arg:Array(string) master
+
 println("嘻嘻“) fix successful!
 
