@@ -1,2 +1,3 @@
 hello git 
 ! for the  next job!
+def main (arg:Array(string)
