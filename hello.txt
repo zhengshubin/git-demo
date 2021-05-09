@@ -4,3 +4,4 @@ def main (arg:Array(string) master
 
 println("嘻嘻“) fix successful!
 我在远程仓库修改了代码
+modify in clone path
