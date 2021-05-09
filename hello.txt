@@ -6,3 +6,4 @@ println("嘻嘻“) fix successful!
 我在远程仓库修改了代码
 modify in clone path
 do you see some ssh free?
+yes, i have free and i will push some code for free-ssh
