@@ -7,3 +7,5 @@ println("嘻嘻“) fix successful!
 modify in clone path
 do you see some ssh free?
 yes, i have free and i will push some code for free-ssh
+
+git update ,do you see gitee?
